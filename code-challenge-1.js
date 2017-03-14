@@ -1,4 +1,3 @@
-//MY ANSWER:
 //declare a sum variable and set it to 0
 var sum = 0
 //make a for loop incrimenting through 1000
